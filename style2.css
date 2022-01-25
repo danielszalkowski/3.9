@@ -14,10 +14,11 @@ body{
     background-color: black;
 }
 
-a{
-    text-align: center;
+p{
+    color: orange;
 }
 
-p{
-    text-align: center;
+span{
+    font-weight: bold;
+    color: orange;
 }
